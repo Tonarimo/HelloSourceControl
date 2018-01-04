@@ -8,8 +8,9 @@ namespace HelloSourceControl
         {
             Console.WriteLine("Enter a greeting");
             string greeting = Console.ReadLine();
-            Console.WriteLine(greeting); 
+            Console.WriteLine(greeting);
             Console.ReadKey();
+
         }
     }
 }
