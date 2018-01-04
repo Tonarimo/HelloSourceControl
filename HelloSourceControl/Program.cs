@@ -7,7 +7,8 @@ namespace HelloSourceControl
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a greeting");
-            string greetings = Console.ReadLine();
+            string greeting = Console.ReadLine();
+            Console.WriteLine(greeting); 
             Console.ReadKey();
         }
     }
