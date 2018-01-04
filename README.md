@@ -1,6 +1,6 @@
 # HelloSourceControl
 This is just my first test with source control
 
-##Subheading
+## Subheading
 
 Some text here...
